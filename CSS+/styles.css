@@ -14,10 +14,12 @@ li{
     font-size: 24px;
 }
  
-#pfp{
+img{
     width: 350px;
     height: 350px;
-    border: black solid 2px;
+    border-color: black; 
+    border-style: solid;
+    border-width: 4px;
     border-radius: 50%;
     margin-top: 50px;
 }
@@ -35,6 +37,10 @@ li{
 .list{
     text-align: left;
 } 
+
+#battle{
+    text-decoration: underline;
+}
 
 
 
